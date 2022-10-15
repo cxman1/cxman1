@@ -24,7 +24,7 @@
 <br>
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shivam1646&show_icons=true&langs_count=8&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shivam1646&show_icons=true&langs_count=8&locale=en&layout=compact&hide=java)
 
 
 
