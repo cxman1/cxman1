@@ -1,7 +1,8 @@
 <h2><font color=#ECFFFF> Hello! I'm ChenXi 你好！我是晨曦👋</font></h2>
+
 * 个人博客：[分享一些欧美流行乐、Hip-hop、技术文章、动漫等资源！](https://cxman1.github.io/)
 * 个人掘金：欢迎各位友好交流技术、互享优质资源
-* * 公众号：[冴羽的 JavaScript 博客](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg)
+*  公众号：[冴羽的 JavaScript 博客](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg)
 * 微信号：[mqyqingfeng](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/IMG_3516.JPG)
 * [可能是中国最好的 TS 入门到进阶系统教程](http://ts.yayujs.com/)
 * [冴羽答读者问](https://www.yuque.com/yayu/ask/dzng83)
