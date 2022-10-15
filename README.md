@@ -1,6 +1,3 @@
-###  👋Hello!I'm chenxi(cx-man)
-
-
 <h2><font color=#ECFFFF> Hello! I'm ChenXi 你好！我是晨曦👋</font></h2>
 
 
