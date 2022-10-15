@@ -1,5 +1,4 @@
 ###  👋Hello!I'm chenxi(cx-man)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2><font color=#ECFFFF> Hello! I'm ChenXi 你好！我是晨曦👋</font></h2>
