@@ -1,8 +1,7 @@
 <h2><font color=#ECFFFF> Hello! I'm ChenXi 你好！我是晨曦👋</font></h2>
 
-*** 个人博客：[分享一些欧美流行乐、Hip-hop、技术文章、动漫等资源！](https://cxman1.github.io/)**
-*** 个人掘金：[欢迎各位友好交流技术、互享优质前端资源](https://juejin.cn/user/1623297006249806)**
-
+* 个人博客：[分享一些欧美流行乐、Hip-hop、技术文章、动漫等资源！](https://cxman1.github.io/)
+*个人掘金：[欢迎各位友好交流技术、互享优质前端资源](https://juejin.cn/user/1623297006249806)
 
 
 
