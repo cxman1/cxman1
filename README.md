@@ -18,6 +18,8 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="30"/> </a>
 <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="38"/></a>
+<img width='50' height='50' title='tailwind' style='margin-left:15px;' src='skill/tailwind.png' />
+<img width='50' height='50' title='git' style='margin-left:15px;' src='skill/git.png' />
 
 
 
