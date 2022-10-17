@@ -1,7 +1,7 @@
 <h2><font color=#ECFFFF> Hello! I'm ChenXi 你好！我是晨曦👋</font></h2>
 
-* 个人休闲类博客：[分享一些欧美流行乐🎵、Hip-hop🔥、动漫🕶、电影等资源！](https://cxman1.github.io/)
 * 分享技术类博客：[📖关于前端网络安全、前端缓存、框架原理、JavaScript知识、前端工程化、推荐库👽](https://cxman1.github.io/vue-collect/)
+* 个人休闲类博客：[分享一些欧美流行乐🎵、Hip-hop🔥、动漫🕶、电影等资源！](https://cxman1.github.io/)
 * 个人掘金：[欢迎各位友好交流技术、互享优质前端资源、一起加油！😶‍🌫️](https://juejin.cn/user/1623297006249806)
 
 
