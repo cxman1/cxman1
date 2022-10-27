@@ -30,7 +30,7 @@
 
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shivam1646&show_icons=true&langs_count=8&locale=en&layout=compact&hide=java,shell,python,html)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shivam1646&show_icons=true&langs_count=8&locale=en&layout=compact&hide=java,shell,python,html)     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
